@@ -24,4 +24,14 @@ Site: [obludzyner.com](https://obludzyner.com) | Diagnostic: [obludzyner.com/dia
 
 A post-sales operating system for B2B SaaS. Starts with a Theory-of-Constraints Revenue Audit that finds exactly where NRR is leaking. Then it aligns leadership and teams to a commercial mandate, installs retention and expansion playbooks, and deploys AI as infrastructure at every step. The team exits operating commercially, without adding headcount, without depending on the founder.
 
+Each letter is proven inside a real engagement first. The open-source repos above are the same idea, in public, with synthetic data:
+
+| | Step | Proof | Open-source |
+|---|---|---|---|
+| **S** | Signal. TOC-based Revenue Audit | The audit found the 60% churn leak at Clicktale before anything else moved | [nrr-leak-diagnostic](https://github.com/marianoobludzyner-hub/nrr-leak-diagnostic), [renewal-risk-rollup](https://github.com/marianoobludzyner-hub/renewal-risk-rollup) |
+| **H** | Human alignment. Leadership to teams | Aligning government and regional stakeholders across Argentina and Uruguay is what let renewals move at Attenti | coming |
+| **I** | Install. Frameworks and playbooks | Connecting retention and expansion to the same system took ARR from $14M to $20M at Leverate | coming |
+| **F** | From reactive to commercial. The mindset shift | Splitting enterprise coverage from a scalable motion let a 10-person team run a 2,000+ client base at Incredibuild | coming |
+| **T** | Technology. AI automation and dashboards | AI-driven onboarding got 130+ clients to a 30-day time-to-value at Onebeat | [call-proactivity-analyzer](https://github.com/marianoobludzyner-hub/call-proactivity-analyzer) |
+
 If your NRR consistently underperforms, [start with the diagnostic](https://obludzyner.com/diagnostic), or [book a conversation](https://obludzyner.com/#contact).
