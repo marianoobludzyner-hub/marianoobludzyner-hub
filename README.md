@@ -4,7 +4,7 @@ Founder, Obludzyner & Co. Post-sales advisory for B2B SaaS.
 
 20+ years inside B2B SaaS post-sales: Head of Sales, Head of Customer Success, Global Head of CS and Account Management, Senior Director. Built post-sales functions from zero, more than once, hands-on with the most critical accounts. Now I install the same system for other founders and CROs, through the SHIFT Method: a 90-day, Theory-of-Constraints-based operating system that protects ARR and generates expansion, without replacing the team or depending on the founder.
 
-Track record: churn from 60% toward zero in 7 months (Clicktale), ARR from $14M to $20M while churn dropped from 55% (Leverate), 130+ clients in under 10 months with a 30-day time-to-value (Onebeat).
+Track record: 60% of revenue up for renewal was churning at Clicktale, brought to near-zero in 7 months, stabilizing at 95% GRR / 115% NRR on a $10M portfolio. ARR from $14M to $20M while churn dropped from 55% to 5% (Leverate). 130+ clients in under 10 months at a 30-day time-to-value, 105% NRR / 90% GRR (Onebeat).
 
 This GitHub is where the AI-infrastructure side of the SHIFT Method lives in public: open-source tools that mirror pieces of what gets installed inside a real engagement, so you can see the method, not just read a claim about it.
 
@@ -28,10 +28,10 @@ Each letter is proven inside a real engagement first. The open-source repos abov
 
 | | Step | Proof | Open-source |
 |---|---|---|---|
-| **S** | Signal. TOC-based Revenue Audit | The audit found the 60% churn leak at Clicktale before anything else moved | [nrr-leak-diagnostic](https://github.com/marianoobludzyner-hub/nrr-leak-diagnostic), [renewal-risk-rollup](https://github.com/marianoobludzyner-hub/renewal-risk-rollup) |
-| **H** | Human alignment. Leadership to teams | Aligning government and regional stakeholders across Argentina and Uruguay is what let renewals move at Attenti | coming |
-| **I** | Install. Frameworks and playbooks | Connecting retention and expansion to the same system took ARR from $14M to $20M at Leverate | coming |
-| **F** | From reactive to commercial. The mindset shift | Splitting enterprise coverage from a scalable motion let a 10-person team run a 2,000+ client base at Incredibuild | coming |
-| **T** | Technology. AI automation and dashboards | AI-driven onboarding got 130+ clients to a 30-day time-to-value at Onebeat | [call-proactivity-analyzer](https://github.com/marianoobludzyner-hub/call-proactivity-analyzer) |
+| **S** | Signal. TOC-based Revenue Audit | The audit surfaced that 60% of revenue up for renewal was already churning at Clicktale. 7 months later: 95% GRR, 115% NRR across a $10M portfolio | [nrr-leak-diagnostic](https://github.com/marianoobludzyner-hub/nrr-leak-diagnostic), [renewal-risk-rollup](https://github.com/marianoobludzyner-hub/renewal-risk-rollup) |
+| **H** | Human alignment. Leadership to teams | Defended roughly 50% of Attenti's $20M international ARR ($10M) through a competitive public tender, across ministry-level government accounts in Argentina and Uruguay | coming |
+| **I** | Install. Frameworks and playbooks | Connecting retention and expansion into one system took Leverate from $14M to $20M ARR while churn dropped from 55% to 5% | coming |
+| **F** | From reactive to commercial. The mindset shift | At Incredibuild, a team that only sent invoices became a proactive CS operation in under 6 months: NRR 120%, GRR 95% across a 2,000+ client base | coming |
+| **T** | Technology. AI automation and dashboards | Built Onebeat's Cloud CS department from zero, onboarding the first 20 clients hands-on. Scaled to 130+ clients in under 10 months at a 30-day time-to-value, 1 to 22 CSMs across 4 regions. NRR 105%, GRR 90% | [call-proactivity-analyzer](https://github.com/marianoobludzyner-hub/call-proactivity-analyzer) |
 
 If your NRR consistently underperforms, [start with the diagnostic](https://obludzyner.com/diagnostic), or [book a conversation](https://obludzyner.com/#contact).
