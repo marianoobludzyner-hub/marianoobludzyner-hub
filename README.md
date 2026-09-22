@@ -40,7 +40,7 @@ I turn reactive B2B SaaS post-sales into a commercial operating system that prot
 | **02 Install** | 90 days. The SHIFT Method installs the system with the team you already have |
 | **03 Sustain** | Continuity as CS/Post-Sales Advisor, or Fractional CCO for full embedded involvement |
 
-I work with founders, CEOs, and CROs of B2B SaaS companies up to Series A, ARR up to $10M, with no CS leader in place. Geographies: Israel, Europe, Spain, LATAM.
+I work with founders, CEOs, and CROs of B2B SaaS companies up to Series B, ARR up to $50M, with no CS leader in place. Geographies: Israel, Europe, Spain, LATAM, APAC, The US.
 
 ## Why this GitHub exists
 
