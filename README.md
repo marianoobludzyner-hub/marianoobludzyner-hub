@@ -7,7 +7,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-connect-0a66c2)](https://linkedin.com/in/obludzyner)
 [![License](https://img.shields.io/badge/open--source%20repos-MIT-0ca30c)](https://github.com/marianoobludzyner-hub/nrr-leak-diagnostic/blob/main/LICENSE)
 
-**Jump to:** [Who I am](#who-i-am) | [What I do now](#what-i-do-now) | [Why this GitHub exists](#why-this-github-exists) | [Projects](#projects) | [The SHIFT Method](#the-shift-method) | [What people say](#what-people-say) | [Work with me](#work-with-me)
+**Jump to:** [Who I am](#who-i-am) | [What I do now](#what-i-do-now) | [Why this GitHub exists](#why-this-github-exists) | [Featured: Mariano Mentor](#featured-mariano-mentor) | [Projects](#projects) | [The SHIFT Method](#the-shift-method) | [What people say](#what-people-say) | [Work with me](#work-with-me)
 
 ---
 
@@ -47,6 +47,18 @@ I work with founders, CEOs, and CROs of B2B SaaS companies up to Series B, ARR u
 Every engagement installs AI as infrastructure: account research, health monitoring, churn signal detection, call analysis, not as an add-on, but as the "T" in the SHIFT Method. This GitHub is where that layer lives in public.
 
 Each repo below is an open-source, synthetic-data version of a real piece of that system. Not a portfolio of toy projects: the formula, the rubric, and the scoring logic are the same ones a real engagement calibrates against your actual data. Clone one, read the method, run it on your own numbers. If it's useful standalone, that is the point. If your real number is uncomfortable, that is also the point, and the next step is a Revenue Audit, not a bigger spreadsheet.
+
+## Featured: Mariano Mentor
+
+Of everything below, this is the one worth trying first: not a calculator, an installable advisor.
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/marianoobludzyner-hub/mariano-mentor/main/examples/flow-diagram.png" alt="Flow: discovery skill produces 5 files, loaded as context, read by the Mariano Mentor skill, which gives grounded advice" width="720">
+</p>
+
+Two skills, not one. The first runs a structured discovery interview about your company, your post-sales motion, your real numbers, your team, your goals, the same pattern Obludzyner & Co. uses internally before a real Revenue Audit, and ends in five synthesis files instead of a transcript. The second, Mariano Mentor, reads those files and gives you a direct, operator-level read on any post-sales decision: which SHIFT letter is actually the gap, which of the 5 pains is driving it, one move, with the reasoning behind it. Grounded in a documented framework and verified track record, not a confident-sounding guess.
+
+Works in Claude (as a Project) or ChatGPT (as a Custom GPT). [See how it's built, and try it yourself](https://github.com/marianoobludzyner-hub/mariano-mentor).
 
 ## Projects
 
