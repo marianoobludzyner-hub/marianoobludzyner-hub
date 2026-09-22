@@ -12,11 +12,13 @@ Site: [obludzyner.com](https://obludzyner.com) | Diagnostic: [obludzyner.com/dia
 
 ## Projects
 
-| Project | What it does |
-|---|---|
-| [nrr-leak-diagnostic](https://github.com/marianoobludzyner-hub/nrr-leak-diagnostic) | Open-source, zero-dependency version of the 7-question ARR leak diagnostic. Run it in your terminal, as a Claude Skill, or as your own GPT. |
+| Project | SHIFT | What it does |
+|---|---|---|
+| [nrr-leak-diagnostic](https://github.com/marianoobludzyner-hub/nrr-leak-diagnostic) | S | Company-level: zero-dependency version of the 7-question ARR leak diagnostic. Run it in your terminal, as a Claude Skill, or as your own GPT. |
+| [renewal-risk-rollup](https://github.com/marianoobludzyner-hub/renewal-risk-rollup) | S | Account-level: turns a CSV of accounts into a leadership-ready ARR-at-risk view by CSM, segment, and renewal window. |
+| [call-proactivity-analyzer](https://github.com/marianoobludzyner-hub/call-proactivity-analyzer) | T | Scores a call transcript against a 5-dimension commercial proactivity rubric, and extracts expansion and risk signals with quotes. |
 
-(More to come, each one mapping to a piece of the SHIFT Method: Signal, Human alignment, Install, From reactive to commercial, Technology.)
+(More to come. Each one maps to a piece of the SHIFT Method: Signal, Human alignment, Install, From reactive to commercial, Technology.)
 
 ## The SHIFT Method
 
