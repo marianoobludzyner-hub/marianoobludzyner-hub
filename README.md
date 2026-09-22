@@ -54,7 +54,9 @@ Each repo below is an open-source, synthetic-data version of a real piece of tha
 |---|---|---|
 | [nrr-leak-diagnostic](https://github.com/marianoobludzyner-hub/nrr-leak-diagnostic) | S | Company-level: zero-dependency version of the 7-question ARR leak diagnostic. Run it in your terminal, as a Claude Skill, or as your own GPT |
 | [renewal-risk-rollup](https://github.com/marianoobludzyner-hub/renewal-risk-rollup) | S | Account-level: turns a CSV of accounts into a leadership-ready ARR-at-risk view by CSM, segment, and renewal window |
+| [account-x-ray](https://github.com/marianoobludzyner-hub/account-x-ray) | S | Single account, maximum depth: synthesizes structured data and unstructured sources (transcripts, notes) into one radiography, every finding classified Fact / Hypothesis / Unknown |
 | [call-proactivity-analyzer](https://github.com/marianoobludzyner-hub/call-proactivity-analyzer) | T | Scores a call transcript against a 5-dimension commercial proactivity rubric, and extracts expansion and risk signals with quotes |
+| [mariano-mentor](https://github.com/marianoobludzyner-hub/mariano-mentor) | All 5 | An installable advisor, not a calculator: a discovery skill that interviews you about your company, plus a persona skill that gives grounded post-sales advice using the SHIFT Method as its diagnostic map |
 
 More to come. Each one maps to a piece of the SHIFT Method below; H, I, and F are next.
 
@@ -66,7 +68,7 @@ Each letter is proven inside a real engagement first. The open-source repos abov
 
 | | Step | Proof | Open-source |
 |---|---|---|---|
-| **S** | Signal. TOC-based Revenue Audit | The audit surfaced that 60% of revenue up for renewal was already churning at Clicktale. 7 months later: 95% GRR, 115% NRR across a $10M portfolio | [nrr-leak-diagnostic](https://github.com/marianoobludzyner-hub/nrr-leak-diagnostic), [renewal-risk-rollup](https://github.com/marianoobludzyner-hub/renewal-risk-rollup) |
+| **S** | Signal. TOC-based Revenue Audit | The audit surfaced that 60% of revenue up for renewal was already churning at Clicktale. 7 months later: 95% GRR, 115% NRR across a $10M portfolio | [nrr-leak-diagnostic](https://github.com/marianoobludzyner-hub/nrr-leak-diagnostic), [renewal-risk-rollup](https://github.com/marianoobludzyner-hub/renewal-risk-rollup), [account-x-ray](https://github.com/marianoobludzyner-hub/account-x-ray) |
 | **H** | Human alignment. Leadership to teams | Defended roughly 50% of Attenti's $20M international ARR ($10M) through a competitive public tender, across ministry-level government accounts in Argentina and Uruguay | coming |
 | **I** | Install. Frameworks and playbooks | Connecting retention and expansion into one system took Leverate from $14M to $20M ARR while churn dropped from 55% to 5% | coming |
 | **F** | From reactive to commercial. The mindset shift | At Incredibuild, a team that only sent invoices became a proactive CS operation in under 6 months: NRR 120%, GRR 95% across a 2,000+ client base | coming |
